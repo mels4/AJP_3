@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="title_tvshow">Tv Show</string>
+    <string name="title_movie">Movie</string>
+    <string name="image_poster">image poster</string>
+    <string name="title">title</string>
+    <string name="rilis">rilis</string>
+    <string name="genre">genre</string>
+    <string name="duration">Duration</string>
+    <string name="description">Description</string>
+    <string name="director">Director</string>
+    <string name="back_arrow">Back Arrow</string>
+    <string name="summaries">Summaries</string>
+    <string name="line">line</string>
+    <string name="rating">7.5</string>
+    <string name="button_share">Button share</string>
+    <string name="tagline">Tagline</string>
+    <string name="episode">Episode</string>
+    <string name="favorite">favorite</string>
+    <string name="message_undo">Cancele to remove previous item?</string>
+    <string name="message_ok">OK</string>
+    <string name="menu_newest">Newest</string>
+    <string name="menu_oldest">Oldest</string>
+    <string name="menu_random">Random</string>
+    <string name="search">search</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="movie_popular">Movie Popular</string>
+    <string name="movie_topRated">Movie Top Rated</string>
+    <string name="movie_upcoming">Movie UpComing</string>
+</resources>
